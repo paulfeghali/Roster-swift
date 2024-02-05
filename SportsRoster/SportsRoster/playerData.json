@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Lamar Jackson",
+        "team": "Baltimore Ravens",
+        "position": "Quarterback",
+        "id": 1001,
+        "imageName": "lamar",
+        "logoName": "ravens"
+    },
+    {
+        "name": "Brock Purdy",
+        "team": "San Francisco 49ers",
+        "position": "Quarterback",
+        "id": 1002,
+        "imageName": "purdy",
+        "logoName": "niners"
+    },
+    {
+        "name": "Patrick Mahomes",
+        "team": "Kansas City Chiefs",
+        "position": "Quarterback",
+        "id": 1003,
+        "imageName": "mahomes",
+        "logoName": "chiefs"
+    },
+    {
+        "name": "Justin Herbert",
+        "team": "Los Angeles Chargers",
+        "position": "Quarterback",
+        "id": 1004,
+        "imageName": "herbert",
+        "logoName": "chargers"
+    },
+    {
+        "name": "Jalen Hurts",
+        "team": "Philadelphia Eagles",
+        "position": "Quarterback",
+        "id": 1005,
+        "imageName": "hurts",
+        "logoName": "eagles"
+    },
+    {
+        "name": "Jordan Love",
+        "team": "Green Bay Packers",
+        "position": "Quarterback",
+        "id": 1006,
+        "imageName": "tua",
+        "logoName": "dolphins"
+    }
+]
+
